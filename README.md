@@ -58,11 +58,6 @@ As most of the tutorials and notebooks are written in Python - if you don't know
 This folder contains practical examples to get you started as well as other ressources to help you out.
 This can include solutions to MOOCs and other problems or applications with Deep Learning.
 
-
-## Links
-
-Some useful links to books, videos or websites to get started with Deep Learning.
-
 ### Books
 
 [Deep Learning, Ian Goodfellow and Yoshua Bengio and Aaron Courville](http://www.deeplearningbook.org/)
@@ -82,3 +77,16 @@ Some useful links to books, videos or websites to get started with Deep Learning
 ### MOOCs
 
 [Udacity Course on Deep Learning](https://de.udacity.com/course/deep-learning--ud730/)
+
+### About keras:
+A greatway to learn about the most common Deep Learning artefacts is the keras website - as they integrate the most common neuronal network layer types you then can lookup more detailed later on.
+
+
+## How to start this repos example
+- Download the Repo with: <code>git clone https://github.com/Claudiooo/DeepLearningLearning.git</code>
+- Install Pyhton: https://www.python.org/downloads/
+- Instll Jupyter Notebook: http://jupyter.org
+- Install keras with TensorFlow: https://keras.io
+
+
+
