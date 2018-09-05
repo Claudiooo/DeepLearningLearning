@@ -1,7 +1,6 @@
 # Deep Learning Learning
 
 This tutorial helps to get into Deep Learning with resources, example Notebooks and explanations.
-
 For any questions, ideas or feedback please write to https://claudiooo.github.io/DeepLearningLearning/
 
 
@@ -19,10 +18,16 @@ Creators:
 ## Starting up
 
 We believe Deep Learning is the current key for Artificial Intelligence - and it has never been easier to tackle this topic.
-
 Interesting talks can be heard on YouTube, on online courses and so on.
-
 For a start you can use these uselfull links:
+
+### Starting with Python
+As most of the tutorials and notebooks are written in Python - if you don't know the language yet, it's easy to get started.
+* Official Website: https://www.python.org/doc/ 
+* Online Learning and coding tutorial: https://www.codecademy.com/learn/learn-python
+* For fast learners scroll through: https://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial 
+* On Wikipedia: https://en.wikipedia.org/wiki/Python_(programming_language)
+
 
 #### Videos
 * [Siraj Raval](https://www.youtube.com/watch?v=XdM6ER7zTLk&index=2&list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
